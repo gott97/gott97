@@ -64,12 +64,12 @@ The project calculates land surface temperature, analyzes tree canopy equity, in
 
 ---
 
-## 📂 Current Projects
+## 📂 Featured Projects
 
 - 🌡 Phoenix Urban Heat Island & Tree Canopy Equity Analysis
-- 🌊 Sea Level Rise Visualization (ArcGIS Online & StoryMap)
-- 🤖 AI-assisted GIS automation and workflow development
-- 🛰 Environmental GIS portfolio projects
+- 🌊 Sea Level Rise in Miami-Dade County (3D Web Scene & Instant App)
+- 🌿 National Audubon Wetland Habitat Analysis
+- 🪸 Global Coral Bleaching Risk Assessment Dashboard
 
 ---
 
