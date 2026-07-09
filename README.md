@@ -2,74 +2,65 @@
 
 **GIS Analyst | ArcGIS Pro | Python | Remote Sensing | Spatial Analysis**
 
-I'm a GIS professional with an M.S. in Geographic Information Systems who enjoys building reproducible geospatial workflows, automating spatial analysis with Python, and creating interactive web maps and StoryMaps that communicate complex environmental data.
+I am a GIS Analyst with an M.S. in Geographic Information Systems specializing in environmental GIS, remote sensing, Python automation, and ArcGIS Online.
 
-My work focuses on environmental GIS, remote sensing, spatial analysis, and GIS process automation using the Esri platform.
+I enjoy developing reproducible geospatial workflows that transform complex spatial data into interactive maps, dashboards, and decision-support tools.
 
 ---
 
-## 🌎 Featured Project
+## 🗺 Portfolio
 
-### Phoenix Urban Heat Island & Tree Canopy Equity Analysis
+| Project | Focus |
+|---------|-------|
+| 🌡 Urban Heat Equity Analysis | Python • ArcPy • Remote Sensing |
+| 🌊 Sea Level Rise in Miami-Dade | ArcGIS Online • 3D Visualization |
+| 🌿 National Audubon Habitat Analysis | Conservation • Landscape Metrics |
+| 🪸 Coral Bleaching Dashboard | Dashboards • Environmental GIS |
+| 🌎 Climate Change StoryMap | Science Communication |
 
-A fully automated GIS workflow that combines:
+## 🌟 Featured GIS Projects
 
-- 🛰️ Landsat Collection 2 thermal imagery
-- 🌳 NLCD Tree Canopy data
-- 📊 American Community Survey (ACS) demographics
-- 🐍 Python & ArcPy automation
-- 🗺️ ArcGIS Pro & ArcGIS Online
+### 🌡 Phoenix Urban Heat Island & Tree Canopy Equity Analysis
+**Python • ArcPy • Remote Sensing • ArcGIS Online**
 
-The project calculates land surface temperature, analyzes tree canopy equity, integrates Census data through the ACS API, and publishes interactive web products including a hosted feature layer, web map, and StoryMap.
+A fully automated GIS workflow that integrates Landsat thermal imagery, NLCD Tree Canopy data, and American Community Survey demographics to identify urban heat equity priorities across Phoenix.
 
-**Repository**
 ➡️ https://github.com/gott97/urban-heat-equity-phoenix
 
-**Interactive StoryMap**
-➡️ https://storymaps.arcgis.com/stories/e975b895c9354858ac33ba7044ac577a
+---
+
+### 🌊 Sea Level Rise in Miami-Dade County
+**ArcGIS Online • Instant Apps • 3D Web Scenes**
+
+An interactive coastal visualization demonstrating projected sea level rise using ArcGIS Online, 3D visualization, and web mapping.
 
 ---
 
-## 🛠 Technical Skills
+### 🌿 National Audubon Wetland Habitat Analysis
+**Professional Consulting • ArcGIS Pro • R • Landscape Metrics**
 
-### GIS
-- ArcGIS Pro
-- ArcGIS Online
-- ArcPy
-- Enterprise Geodatabases
-- Cartography
-- Spatial Analysis
-- Raster Processing
-- Geoprocessing Automation
-
-### Programming
-- Python
-- pandas
-- ArcGIS API for Python
-- Jupyter Notebooks
-- SQL
-
-### Remote Sensing
-- Landsat Collection 2
-- Land Surface Temperature
-- Tree Canopy Analysis
-- Image Classification
-
-### Web GIS
-- StoryMaps
-- Experience Builder
-- Dashboards
-- Hosted Feature Layers
-- Web Maps
+Developed landscape connectivity and habitat complexity analyses to support wetland conservation planning for the National Audubon Society.
 
 ---
 
-## 📂 Featured Projects
+### 🪸 Global Coral Bleaching Risk Assessment Dashboard
+**ArcGIS Dashboards • Environmental GIS**
 
-- 🌡 Phoenix Urban Heat Island & Tree Canopy Equity Analysis
-- 🌊 Sea Level Rise in Miami-Dade County (3D Web Scene & Instant App)
-- 🌿 National Audubon Wetland Habitat Analysis
-- 🪸 Global Coral Bleaching Risk Assessment Dashboard
+Interactive dashboard visualizing global coral bleaching risk using NOAA environmental datasets.
+
+---
+
+### 🌎 Using GIS to Address Climate Change
+**StoryMaps • Science Communication • Web GIS**
+
+Interactive StoryMap communicating climate impacts through maps, graphics, and geospatial storytelling.
+
+## 🔭 Currently Working On
+
+- Expanding my Python GIS portfolio
+- Building reproducible ArcGIS Pro workflows
+- Automating geospatial analysis with ArcPy
+- Publishing interactive GIS applications with ArcGIS Online
 
 ---
 
