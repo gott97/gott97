@@ -96,16 +96,8 @@ I am continuing to expand my work in:
 - Python and R integration with ArcGIS
 - Interactive geospatial communication
 
-## Connect
+## Explore More
 
-[ArcGIS Portfolio](https://arcgotthard.maps.arcgis.com/home/index.html)  
-[LinkedIn](https://www.linkedin.com/in/agotthard)
+[View my complete ArcGIS Portfolio](https://arcgotthard.maps.arcgis.com/home/index.html)  
 
 Thanks for visiting. My repositories document both the final products and the analytical decisions behind them, including data preparation, quality control, methodology, and project limitations.
-
-
----
-
-Thanks for visiting my GitHub!
-
-I'm continually expanding my portfolio with GIS automation projects, Python workflows, and interactive mapping applications.
